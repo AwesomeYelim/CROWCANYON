@@ -1,7 +1,7 @@
 # Cilck 👉<a href="https://awesomeyelim.github.io/CROWCANYON/">CROWCANYON</a>
 
 - 기간 : 21.9.9
-- 목적 : crowcanyon 랜딩페이지 제작.
+- 목적 : crowcanyon 랜딩페이지 제작
 - 반응형 : O
 - 사용스택 : javascript
 - 사용라이브러리 : jQuery
