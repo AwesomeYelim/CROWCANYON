@@ -58,16 +58,16 @@ body{
     border-top: 1px solid rgb(239, 239, 239);
 } 
 
-#menu ul li:hover a {font-size: 2.5em;}
+#menu ul li:hover a {font-size: 2em;}
 #menu ul li:nth-child(1):hover a {color: #f8da78; border-top-color: #f8da78;}
 #menu ul li:nth-child(2):hover a {color: #c45a5a; border-top-color: #c45a5a;}
 #menu ul li:nth-child(3):hover a {color: #6044ff; border-top-color: #6044ff;}
 #menu ul li:nth-child(4):hover a {color: #4b4b4b; border-top-color: #4b4b4b;}
 
-#menu ul li:nth-child(1).on a {color: #f8da78; border-top-color: #f8da78; font-size: 2.5em;}
-#menu ul li:nth-child(2).on a {color: #c45a5a; border-top-color: #c45a5a; font-size: 2.5em;}
-#menu ul li:nth-child(3).on a {color: #6044ff; border-top-color: #6044ff; font-size: 2.5em;}
-#menu ul li:nth-child(4).on a {color: #4b4b4b; border-top-color: #4b4b4b; font-size: 2.5em;}
+#menu ul li:nth-child(1).on a {color: #f8da78; border-top-color: #f8da78; font-size: 2em;}
+#menu ul li:nth-child(2).on a {color: #c45a5a; border-top-color: #c45a5a; font-size: 2em;}
+#menu ul li:nth-child(3).on a {color: #6044ff; border-top-color: #6044ff; font-size: 2em;}
+#menu ul li:nth-child(4).on a {color: #4b4b4b; border-top-color: #4b4b4b; font-size: 2em;}
 
 /* 본문내용 */
 
